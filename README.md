@@ -8,9 +8,6 @@ with Kasa lights I was able to create the necessary code to add the functionalit
 <li>Breathing mode: Lights stay on a specific color and the brightness is slowly raised and lowered.</li>
 <li>Random cycle mode: All the lights change colors randomly.</li>
 <li>Chase mode: Uses two colors. One light is one color, the rest are the other color. The single color moves positions based on location, such as in a circle around the perimerer.</li>
+<li>Crypto price indicator: Red Green and Neutral colors based on candlesticks.</li>
 <li>Panic mode: Red/Blue flashing lights.</li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
